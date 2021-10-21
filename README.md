@@ -12,8 +12,6 @@ Simple Webservice (API) for books management app.
 - Ready to use database migrations.
 - Ready to use database seeders (for testing purposes).
 
----
-
 # Getting started
 ## Installation
 
@@ -84,5 +82,3 @@ Run the database seeder and you're done
 - `.env` - Environment variables can be set in this file
 
 ***Note*** : You can quickly set the database information and other variables in this file and have the application fully working.
-
-----------
